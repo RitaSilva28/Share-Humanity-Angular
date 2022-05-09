@@ -55,7 +55,7 @@ export const issues = [{
 {
     category: ["Social", "Economic", "Gender", "Equality", "Gender equality"],
     title: "Gender Equality",
-    src: "https://i1.wp.com/www.travindy.com/wp-content/uploads/2017/12/PATA-will-highlight-the-issue-of-gender-equality-in-2018-Dec122017.png?resize=710%2C502&ssl=1",
+    src: "https://europeanmovement.eu/wp-content/uploads/2015/03/Gender-equality2.png",
     description: "Despite progress, gender inequality continues to hold women and girls back and deprive them of basic rights and opportunities.",
     href: "detail.html",
     pin:"..//assets/images/pinRosa.png"
