@@ -19,7 +19,7 @@ export const issues = [{
 {
     category: ["Social", "Economic", "Africa", "Hunger", "Food"],
     title: "Hunger",
-    src: "https://www.lowyinstitute.org/sites/default/files/49838682888_f94f9ad9f4_k_0.jpg",
+    src: "https://borgenproject.org/wp-content/uploads/Fighting_Hunger_in_India.jpg",
     description: "Around the world, <strong>821 Million </strong> people do not have enough of the food they need to live an active, healthy life",
     href: "detail.html",
     pin:"..//assets/images/pinVermelho.png"
@@ -55,7 +55,7 @@ export const issues = [{
 {
     category: ["Social", "Economic", "Gender", "Equality", "Gender equality"],
     title: "Gender Equality",
-    src: "https://europeanmovement.eu/wp-content/uploads/2015/03/Gender-equality2.png",
+    src: "https://i0.wp.com/epthinktank.eu/wp-content/uploads/2022/06/AdobeStock_456540956.jpeg?fit=4865%2C3000&ssl=1",
     description: "Despite progress, gender inequality continues to hold women and girls back and deprive them of basic rights and opportunities.",
     href: "detail.html",
     pin:"..//assets/images/pinRosa.png"
